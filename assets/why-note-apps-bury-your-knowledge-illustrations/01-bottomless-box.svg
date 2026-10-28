@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#fff"/>
+<g fill="none" stroke="#111" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<!-- box -->
+<path d="M820 330 L1220 322 L1228 600 L826 610 Z"/>
+<path d="M880 330 L1170 326" stroke-width="9"/>
+<path d="M830 612 Q1020 650 1222 602" stroke-dasharray="4 16"/>
+<!-- hole in ground -->
+<ellipse cx="1025" cy="760" rx="150" ry="34" fill="#111"/>
+<path d="M880 700 Q1025 745 1170 700" />
+<!-- falling notes -->
+<g stroke="#111" stroke-width="4" fill="#fff">
+<rect x="975" y="640" width="48" height="36" transform="rotate(-12 999 658)"/>
+<rect x="1040" y="690" width="44" height="32" transform="rotate(10 1062 706)"/>
+</g>
+<!-- notes in flight -->
+<rect x="640" y="300" width="56" height="42" fill="#fff" transform="rotate(-14 668 321)"/>
+<rect x="720" y="250" width="56" height="42" fill="#fff" transform="rotate(8 748 271)"/>
+<!-- Xiaohei -->
+<path d="M420 430 Q400 330 480 310 Q580 300 590 400 Q600 470 520 490 Q430 500 420 430 Z" fill="#111"/>
+<path d="M470 490 L458 600 M540 492 L552 600"/>
+<path d="M590 380 Q650 340 690 330"/>
+</g>
+<circle cx="478" cy="385" r="11" fill="#fff"/><circle cx="535" cy="383" r="11" fill="#fff"/>
+<g font-family="'Comic Sans MS','Segoe Print',cursive" font-size="40">
+<text x="560" y="210" fill="#2b6cb0" transform="rotate(-4 560 210)">saved in 5 sec</text>
+<text x="905" y="860" fill="#d62828" transform="rotate(3 905 860)">gone</text>
+</g>
+<path d="M740 215 Q790 240 820 300" fill="none" stroke="#f77f00" stroke-width="5" stroke-linecap="round"/>
+</svg>
